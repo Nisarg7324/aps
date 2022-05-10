@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571620916110",
+    "project_id": "aps-final",
+    "storage_bucket": "aps-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571620916110:android:c4f96dba27e61a07d582df",
+        "android_client_info": {
+          "package_name": "com.example.automated_payroll_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571620916110-hpdssggopr1qke054bgvohsenc899bom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzWAQMLs1SCUDlQRBIE3mVl1uJwduImA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571620916110-hpdssggopr1qke054bgvohsenc899bom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
